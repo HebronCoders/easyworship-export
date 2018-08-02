@@ -1,2 +1,3 @@
-# easyworship-export
-export files from easyworship to use for propresenter
+### EasyWorship Export
+
+This repo holds a utility that will export files from EasyWorship for easy import into ProPresenter.
